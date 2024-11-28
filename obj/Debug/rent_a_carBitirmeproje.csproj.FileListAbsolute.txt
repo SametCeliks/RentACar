@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\rent_a_carBitirmeproje\rent_a_carBitirmeproje\bin\Debug\rent_a_carBitirmeproje.exe.config
+C:\Users\user\source\repos\rent_a_carBitirmeproje\rent_a_carBitirmeproje\bin\Debug\rent_a_carBitirmeproje.exe
+C:\Users\user\source\repos\rent_a_carBitirmeproje\rent_a_carBitirmeproje\bin\Debug\rent_a_carBitirmeproje.pdb
+C:\Users\user\source\repos\rent_a_carBitirmeproje\rent_a_carBitirmeproje\obj\Debug\rent_a_carBitirmeproje.csprojAssemblyReference.cache
+C:\Users\user\source\repos\rent_a_carBitirmeproje\rent_a_carBitirmeproje\obj\Debug\rent_a_carBitirmeproje.anasayfa.resources
+C:\Users\user\source\repos\rent_a_carBitirmeproje\rent_a_carBitirmeproje\obj\Debug\rent_a_carBitirmeproje.Properties.Resources.resources
+C:\Users\user\source\repos\rent_a_carBitirmeproje\rent_a_carBitirmeproje\obj\Debug\rent_a_carBitirmeproje.csproj.GenerateResource.cache
+C:\Users\user\source\repos\rent_a_carBitirmeproje\rent_a_carBitirmeproje\obj\Debug\rent_a_carBitirmeproje.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\rent_a_carBitirmeproje\rent_a_carBitirmeproje\obj\Debug\rent_a_carBitirmeproje.exe
+C:\Users\user\source\repos\rent_a_carBitirmeproje\rent_a_carBitirmeproje\obj\Debug\rent_a_carBitirmeproje.pdb
+C:\Users\user\source\repos\rent_a_carBitirmeproje\rent_a_carBitirmeproje\obj\Debug\rent_a_carBitirmeproje.AddCustomer.resources
+C:\Users\user\source\repos\rent_a_carBitirmeproje\rent_a_carBitirmeproje\obj\Debug\rent_a_carBitirmeproje.showcustomer.resources
+C:\Users\user\source\repos\rent_a_carBitirmeproje\rent_a_carBitirmeproje\obj\Debug\rent_a_carBitirmeproje.CarRecord.resources
+C:\Users\user\source\repos\rent_a_carBitirmeproje\rent_a_carBitirmeproje\obj\Debug\rent_a_carBitirmeproje.ShowCars.resources
+C:\Users\user\source\repos\rent_a_carBitirmeproje\rent_a_carBitirmeproje\obj\Debug\rent_a_carBitirmeproje.Agreementt.resources
+C:\Users\user\source\repos\rent_a_carBitirmeproje\rent_a_carBitirmeproje\obj\Debug\rent_a_carBitirmeproje.frmsales.resources
